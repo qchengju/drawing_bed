@@ -1,1 +1,13 @@
-图床初始化
+# 图床
+
+## 仓库名
+drawing_bed
+## 仓库分支结构
+drawing_bed
+|--main
+|  |--readme
+|--img-1
+|  |--index.js // 读取 选定 目录并生成 output.md 文件，主要是读取文件名，拼接成完整路径
+|  |-- 1.jpg
+|  |-- 2.jpg
+|  |-- 3.jpg
